@@ -1,12 +1,12 @@
 <!-- Banner Principal com Estética Clean e Gradiente (Capsule Render) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=222222,444444,888888&height=250&section=header&text=Seu%20Nome&fontSize=60&fontAlignY=38&desc=Software%20Engineer%20|%20Architect&descAlignY=60&descSize=20&fontColor=ffffff" alt="Premium Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=222222,444444,888888&height=250&section=header&text=Ricardo%20Diniz&fontSize=60&fontAlignY=38&desc=Frontend%20Engineer%20|%20AI%20Specialist&descAlignY=60&descSize=20&fontColor=ffffff" alt="Premium Header" />
 </div>
 
 <br>
 
 <div align="center">
-  <i>"Projetando arquiteturas escaláveis e escrevendo código limpo para o amanhã."</i>
+  <i>"Criando interfaces de alto impacto impulsionadas por Inteligência Artificial."</i>
 </div>
 
 <br><br>
@@ -17,15 +17,15 @@
     <td width="50%" valign="top">
       <h3 align="left">⟡ Sobre a Minha Abordagem</h3>
       <p align="left">
-        Especialista em criar soluções elegantes para problemas complexos. Foco em performance, manutenibilidade e na entrega de produtos de alto valor agregado. Valorizo o design de software sólido e a experiência do usuário.
+        Desenvolvedor Frontend especializado em integrar o melhor do design e performance com soluções de Inteligência Artificial de ponta. Tenho forte experiência em criar aplicações ricas e escalar sistemas alimentados por LLMs, RAG (Retrieval-Augmented Generation) e IA Generativa.
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="left">⟡ Foco Atual</h3>
       <ul align="left">
-        <li>Arquitetura de Sistemas Distribuídos</li>
-        <li>Otimização de Performance e Refatoração</li>
-        <li>Desenvolvimento Web Moderno (Serverless, Edge Computing)</li>
+        <li>Integração de LLMs e Agentes em Aplicações Web</li>
+        <li>Arquiteturas de RAG (Retrieval-Augmented Generation)</li>
+        <li>Desenvolvimento Frontend Avançado (React, Next.js)</li>
       </ul>
     </td>
   </tr>
@@ -42,14 +42,17 @@
 <br>
 
 <div align="center">
-  <!-- Utilizamos estilo 'flat' monocromático ou tons prateados/escuros para manter o profissionalismo -->
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <br><br>
+  <!-- AI / Backend -->
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=white" />
 </div>
 
 <br><br>
@@ -67,6 +70,7 @@
     <tr>
       <td align="center">
         <!-- Card Transparente para dar o efeito Clean/Glass se o fundo do GitHub for Dark -->
+        <!-- NOTA: Lembre-se de trocar "SEU_USUARIO" pelo seu usuário do GitHub! -->
         <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&icon_color=ffffff&bg_color=00000000" alt="Estatísticas Principais" />
       </td>
       <td align="center">
@@ -84,10 +88,9 @@
 
 <!-- Contatos -->
 <div align="center">
-  <p><b>Vamos construir algo incrível.</b></p>
+  <p><b>Vamos construir o futuro da IA juntos.</b></p>
   <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:seu.email@exemplo.com"><img src="https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://seu-website-premium.com"><img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
 </div>
 
 <br>
