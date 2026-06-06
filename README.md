@@ -1,6 +1,6 @@
 <!-- Banner Principal com Estética Liquid Glass (Black & Yellow) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Ricardo%20Diniz&fontSize=60&fontAlignY=38&desc=Frontend%20Engineer%20|%20AI%20Specialist&descAlignY=60&descSize=20&fontColor=FFD700" alt="Premium Header" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=600&color=FFB800&text=Ricardo%20Diniz&reversal=false&textBg=false&fontAlign=50&fontAlignY=50&descAlign=0&descAlignY=0" />
 </div>
 
 <br>
