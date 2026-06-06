@@ -88,8 +88,8 @@
 <!-- Contatos -->
 <div align="center">
   <p><b>Vamos construir o futuro da IA juntos.</b></p>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn" /></a>
-  <a href="mailto:seu.email@exemplo.com"><img src="https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email" /></a>
+  <a href="www.linkedin.com/in/ricardodm-dev"><img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn" /></a>
+  <a href="mailto:ricardodm.dev@gmail.com"><img src="https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email" /></a>
 </div>
 
 <br>
