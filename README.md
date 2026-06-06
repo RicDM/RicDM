@@ -1,18 +1,18 @@
-<!-- Banner Principal com Estética Clean e Gradiente (Capsule Render) -->
+<!-- Banner Principal com Estética Liquid Glass (Black & Yellow) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=222222,444444,888888&height=250&section=header&text=Ricardo%20Diniz&fontSize=60&fontAlignY=38&desc=Frontend%20Engineer%20|%20AI%20Specialist&descAlignY=60&descSize=20&fontColor=ffffff" alt="Premium Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Ricardo%20Diniz&fontSize=60&fontAlignY=38&desc=Frontend%20Engineer%20|%20AI%20Specialist&descAlignY=60&descSize=20&fontColor=FFD700" alt="Premium Header" />
 </div>
 
 <br>
 
 <div align="center">
-  <i>"Criando interfaces de alto impacto impulsionadas por Inteligência Artificial."</i>
+  <h4 style="color: #FFD700;"><i>"Criando interfaces de alto impacto impulsionadas por Inteligência Artificial."</i></h4>
 </div>
 
 <br><br>
 
 <!-- Bloco sobre mim estilo minimalista -->
-<table align="center" width="100%" border="0" cellpadding="10">
+<table align="center" width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">⟡ Sobre a Minha Abordagem</h3>
@@ -37,22 +37,22 @@
 
 <br>
 
-<!-- Stack de Tecnologias Minimalista (Ícones monocromáticos) -->
+<!-- Stack de Tecnologias (Preto com logos em Amarelo/Dourado para dar o efeito limpo e Premium) -->
 <h3 align="center">⟡ Core Stack ⟡</h3>
 <br>
 
 <div align="center">
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=FFD700" />
   <br><br>
   <!-- AI / Backend -->
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=FFD700" />
 </div>
 
 <br><br>
@@ -61,7 +61,7 @@
 
 <br>
 
-<!-- Estatísticas com tema transparente (estética glassmorphism/clean) -->
+<!-- Estatísticas com tema transparente (estética glassmorphism/clean 100% transparente) -->
 <h3 align="center">⟡ Analytics ⟡</h3>
 <br>
 
@@ -69,12 +69,11 @@
   <table border="0">
     <tr>
       <td align="center">
-        <!-- Card Transparente para dar o efeito Clean/Glass se o fundo do GitHub for Dark -->
-        <!-- NOTA: Lembre-se de trocar "SEU_USUARIO" pelo seu usuário do GitHub! -->
-        <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&icon_color=ffffff&bg_color=00000000" alt="Estatísticas Principais" />
+        <!-- Card Transparente para efeito Clean/Glass. Títulos e ícones em Amarelo, texto em Cinza claro. -->
+        <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=FFD700&text_color=cccccc&icon_color=FFD700&bg_color=00000000" alt="Estatísticas Principais" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&bg_color=00000000" alt="Linguagens" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=FFD700&text_color=cccccc&bg_color=00000000" alt="Linguagens" />
       </td>
     </tr>
   </table>
@@ -89,12 +88,12 @@
 <!-- Contatos -->
 <div align="center">
   <p><b>Vamos construir o futuro da IA juntos.</b></p>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:seu.email@exemplo.com"><img src="https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn" /></a>
+  <a href="mailto:seu.email@exemplo.com"><img src="https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email" /></a>
 </div>
 
 <br>
-<!-- Rodapé invisível ou minimalista -->
+<!-- Rodapé minimalista (Black/Dark Yellow) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=222222,444444,888888&height=80&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=footer" alt="Footer" />
 </div>
