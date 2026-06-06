@@ -90,6 +90,7 @@
   <p><b>Vamos construir o futuro da IA juntos.</b></p>
   <a href="www.linkedin.com/in/ricardodm-dev"><img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn" /></a>
   <a href="mailto:ricardodm.dev@gmail.com"><img src="https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email" /></a>
+  <a href="https://ricardo-dm-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=FFD700" alt="Portfolio" /></a>
 </div>
 
 <br>
